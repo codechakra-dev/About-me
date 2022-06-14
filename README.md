@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codechakra-dev
-- 👀 I’m interested in java,python android studio app development
-- 🌱 I’m currently learning android studio app development
+- 👀 I’m interested in java, android studio app development
+- 🌱 I’m an Android App Developer
 - 💞️ I’m looking to collaborate on more android studio app projects
 - 📫 You can email me at akshayvshinde98@gmail.com
 
